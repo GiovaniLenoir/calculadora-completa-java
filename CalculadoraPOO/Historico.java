@@ -1,3 +1,5 @@
+package CalculadoraPOO;
+
 import java.util.ArrayList;
 
 public class Historico {

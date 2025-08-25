@@ -1,3 +1,5 @@
+package CalculadoraPOO;
+
 public class Calculadora {
 
     public static double somar(double a, double b) {

@@ -1,0 +1,15 @@
+# Ignore arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+*.code-workspace
+
+# Arquivos de build 
+dist/
+build/
+
+# Arquivos pessoais
+*.zip
+*.log
