@@ -94,7 +94,6 @@ public static void main(String[] args) {
             System.out.println("Erro: " + e.getMessage());
         }
     }
-
     scanner.close();
 }
 
