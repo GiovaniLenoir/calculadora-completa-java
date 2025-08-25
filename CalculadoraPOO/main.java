@@ -1,6 +1,5 @@
 import CalculadoraPOO.Calculadora;
 import CalculadoraPOO.Historico;
-
 import java.util.Scanner;
 
 public static void main(String[] args) {
